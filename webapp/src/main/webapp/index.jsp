@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="style.css" />
 
-<title>Reverted by Bryant Smith</title>
+<title>Reverted by team computers</title>
 </head>
 
 <body>
