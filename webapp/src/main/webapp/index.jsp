@@ -12,7 +12,7 @@
 		
         <div id="header">
         	<h1>Team Computers »</h1>
-            <h2>Welcome to TCPL</h2>
+            <h2>HELLO Welcome to TEAM COMPUTERS</h2>
             
       </div>
         <div id="bar">
