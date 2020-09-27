@@ -11,8 +11,8 @@
     <div id="page">
 		
         <div id="header">
-        	<h1>Team Computers »</h1>
-            <h2>HELLO Welcome to TEAM COMPUTERS</h2>
+        	<h1>DevOps Class »</h1>
+            <h2>HELLO Welcome to DevOps</h2>
             
       </div>
         <div id="bar">
