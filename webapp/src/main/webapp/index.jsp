@@ -12,7 +12,7 @@
 		
         <div id="header">
         	<h1>DevOps Class »</h1>
-            <h2>HELLO Welcome to DevOps</h2>
+            <h2>HELLO Welcome to DevOps V1</h2>
             
       </div>
         <div id="bar">
