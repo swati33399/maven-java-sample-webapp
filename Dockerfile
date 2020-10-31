@@ -1,6 +1,8 @@
 # Pull base image 
 From tomcat:8-jre8 
+#FROM tomcat:8.0
 
 # Maintainer 
-MAINTAINER "valaxytech@gmail.com" 
-COPY ./webapp.war /usr/local/tomcat/webapps
+MAINTAINER "Ravi Arora" 
+WORKDIR /home/vsts/work/1/a
+COPY webapp/target/webapp.war /usr/local/tomcat/webapps
